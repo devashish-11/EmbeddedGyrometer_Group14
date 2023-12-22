@@ -1,0 +1,19 @@
+.pio\build\disco_f429zi\FrameworkMbedstorage\blockdevice\source\SFDP.o: \
+ C:\Users\Deva\.platformio\packages\framework-mbed\storage\blockdevice\source\SFDP.cpp \
+ .pio\build\disco_f429zi/mbed_config.h \
+ C:\Users\Deva\PLATFO~1\packages\FRAMEW~1/platform/include/platform/mbed_error.h \
+ C:\Users\Deva\PLATFO~1\packages\FRAMEW~1/platform/include/platform/mbed_retarget.h \
+ C:\Users\Deva\PLATFO~1\packages\FRAMEW~1/platform/include/platform/mbed_toolchain.h \
+ C:\Users\Deva\PLATFO~1\packages\FRAMEW~1/platform/include/platform/mbed_preprocessor.h \
+ C:\Users\Deva\PLATFO~1\packages\FRAMEW~1/storage/BLOCKD~1/include/blockdevice/internal/SFDP.h \
+ C:\Users\Deva\PLATFO~1\packages\FRAMEW~1/storage/BLOCKD~1/include/blockdevice/BlockDevice.h \
+ C:\Users\Deva\PLATFO~1\packages\FRAMEW~1/platform/include/platform/Callback.h \
+ C:\Users\Deva\PLATFO~1\packages\FRAMEW~1/platform/CXXSUP~1/mstd_cstddef \
+ C:\Users\Deva\PLATFO~1\packages\FRAMEW~1/platform/CXXSUP~1/mstd_new \
+ C:\Users\Deva\PLATFO~1\packages\FRAMEW~1/platform/include/platform/mbed_assert.h \
+ C:\Users\Deva\PLATFO~1\packages\FRAMEW~1/platform/CXXSUP~1/mstd_type_traits \
+ C:\Users\Deva\PLATFO~1\packages\FRAMEW~1/platform/CXXSUP~1/mstd_functional \
+ C:\Users\Deva\PLATFO~1\packages\FRAMEW~1/platform/CXXSUP~1/mstd_memory \
+ C:\Users\Deva\PLATFO~1\packages\FRAMEW~1/platform/CXXSUP~1/mstd_utility \
+ C:\Users\Deva\PLATFO~1\packages\FRAMEW~1/platform/CXXSUP~1/mstd_iterator \
+ C:\Users\Deva\PLATFO~1\packages\FRAMEW~1/platform/MBED-T~1/include/mbed-trace/mbed_trace.h
